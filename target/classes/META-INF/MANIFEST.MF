@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: web_ejem7
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: NADL-248
+Implementation-Vendor-Id: es.urjc.code
+Build-Jdk: 1.8.0_251
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
